@@ -4,6 +4,6 @@
   "main"        : ["./ember-bootstrap.js", "./ember-bootstrap.min.js", "./ember-bootstrap.prod.js", "./ember-bootstrap.spade.js"],
   "dependencies": {
     "ember": "~1.0.0-rc.1",
-    "bootstrap": "~2.3.0",
+    "bootstrap": "~2.3.0"
   }
 }
